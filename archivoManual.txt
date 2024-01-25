@@ -1,0 +1,1 @@
+Con git pull se descargan los archivos del remoto al local y con git push se actualizan en el repositorio remoto desde el local 
