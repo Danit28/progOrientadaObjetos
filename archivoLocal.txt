@@ -1,0 +1,1 @@
+En el repositorio local es necesario hacer el add y el commit para actualizarlo 
